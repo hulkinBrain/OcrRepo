@@ -510,7 +510,7 @@ public class theFace {
 
                 }
                 if(x == lMostXOfLetter && y == lMostYOfLetter && traversalChecker == 1){
-                    System.out.println("traversal of letter complete");
+                    System.out.println("Traversal of letter complete");
                     lmostx = rMostX + 1;
                     lMost();
                     break;
@@ -575,7 +575,9 @@ public class theFace {
                 try{
                     cImg = ImageIO.read(compImgFile);
                 }
-                catch(IOException ie){}
+                catch(IOException ie){
+                    System.out.println("IOException");
+                }
                 /*
                 int width = rMostX - lMostX;
                 //rMostX = 0;

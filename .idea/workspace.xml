@@ -7,18 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3a15ce9-7557-49a0-99ee-4045f9c9b7d6" name="Default" comment="Initial Commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/OCR_final_time_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OCR final time.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/testOutStuff.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/theFace.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theFace.java" afterPath="$PROJECT_DIR$/src/theFace.java" />
     </list>
     <ignored path="OCR final time.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,8 +32,8 @@
       <file leaf-file-name="theFace.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/theFace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60840106">
-              <caret line="651" column="38" selection-start-line="651" selection-start-column="38" selection-end-line="651" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.5392954">
+              <caret line="597" column="20" selection-start-line="597" selection-start-column="20" selection-end-line="597" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -85,8 +74,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/theFace.java" />
         <option value="$PROJECT_DIR$/src/testOutStuff.java" />
+        <option value="$PROJECT_DIR$/src/theFace.java" />
       </list>
     </option>
   </component>
@@ -921,8 +910,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/theFace.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60840106">
-          <caret line="651" column="38" selection-start-line="651" selection-start-column="38" selection-end-line="651" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.5392954">
+          <caret line="597" column="20" selection-start-line="597" selection-start-column="20" selection-end-line="597" selection-end-column="20" />
           <folding />
         </state>
       </provider>
