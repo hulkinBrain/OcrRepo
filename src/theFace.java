@@ -532,7 +532,7 @@ public class theFace {
             System.out.println("\nprevEndHeight = " + prevEndHeight);
 
 
-            System.out.println("\nrightmost pixel of the letter  = " + rMostX + " leftmost pixel of the letter = " +lMostX + " topmost pixel = " + tMostY);
+            System.out.println("\nRightmost pixel of the letter  = " + rMostX + " leftmost pixel of the letter = " +lMostX + " topmost pixel = " + tMostY);
         }
         int startPos2 = 0;
         void draw(){
