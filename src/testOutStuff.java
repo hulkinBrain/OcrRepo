@@ -10,7 +10,7 @@ import java.io.IOException;
 
 
 public class testOutStuff {
-    File convImg = new File ("E:\\downloads\\court.png");
+    File convImg = new File ("F:\\Soorya details\\sooryaVoterId\\sooryaVoterIdFront.jpg");
     //File convImg = new File ("d:/test.png");
     BufferedImage bImg;
     BufferedImage grayImg;
@@ -25,7 +25,7 @@ public class testOutStuff {
 
             grayImg = new BufferedImage(bImg.getWidth(), bImg.getHeight(), BufferedImage.TYPE_BYTE_GRAY);
             grayImg.createGraphics().drawImage(bImg, 0, 0, Color.WHITE, null);
-            grayFile = new File ("D:\\grey.png");
+            grayFile = new File ("F:\\Soorya details\\sooryaVoterId\\sooryaVoterIdEN.jpg");
             ImageIO.write(grayImg,"png",grayFile);
 
         }
